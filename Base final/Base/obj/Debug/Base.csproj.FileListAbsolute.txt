@@ -1,0 +1,229 @@
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\bin\Debug\Base.exe.config
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\bin\Debug\Base.exe
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\bin\Debug\Base.pdb
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\obj\Debug\Base.Form1.resources
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\obj\Debug\Base.Properties.Resources.resources
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\obj\Debug\Base.exe
+c:\users\tanus\documents\visual studio 2013\Projects\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Documents\Visual Studio 2013\Projects\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Documents\Visual Studio 2013\Projects\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - Cópia\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick com tamanho\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\IC\Temp X Res - 1 tick comadskfgah\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\IC\TRY HARD\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\bin\Debug\Base.exe
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\bin\Debug\Base.pdb
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Pontas - Keythley - Excel - Cópia - Cópia - Cópia (2)\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance Measurement per Temperature - Code\Base\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire Resistance per Temperature.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form2.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire.exe.config
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire.pdb
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire.exe
+C:\Users\Tanus\Desktop\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire.pdb
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire.exe.config
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.ResolveComReference.cache
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire.exe
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\4 Wire.pdb
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire.exe
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\bin\Debug\4 Wire.pdb
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form1.resources
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Form2.resources
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Tanus\Desktop\Programação\4 Wire Resistance per Temperature - Code\Base - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia - Cópia\Base\obj\Debug\Base.csproj.GenerateResource.Cache
